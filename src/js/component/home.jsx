@@ -15,10 +15,10 @@ const Home = () => {
 			<div className="container"> 
 				<Jumbotron></Jumbotron>
 				<div className="cardSection d-sm-flex">
-					<Card></Card>
-					<Card></Card>
-					<Card></Card>
-					<Card></Card>
+					<Card img = {rigoImage}></Card>
+					<Card img = {rigoImage}></Card>
+					<Card img = {rigoImage}></Card>
+					<Card img = {rigoImage}></Card>
 				</div>
 				<Footer></Footer>
 			</div>
