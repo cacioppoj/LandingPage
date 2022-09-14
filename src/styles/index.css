@@ -10,3 +10,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.footer{
+    background: white;
+    height: 20px;
+    width: 100%;
+    text-decoration-color: aliceblue;
+    text-align: center;
+}
+.cardSection{
+    margin: auto;
+    margin-top: 30px;
+}
